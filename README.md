@@ -1,1 +1,1 @@
-# Java_Project
+# Веб-приложение Buysell на Java Spring

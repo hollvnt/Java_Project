@@ -1,13 +1,13 @@
-package by.yaskovich.java_project;
+package by.yaskovich.buysell;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaProjectApplicationTests {
+class BuysellApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
